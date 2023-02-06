@@ -19,7 +19,6 @@
 3. Getting the Chemical constituents.
 4. Extracting the dissimilar regions.
 
-<br>
 #### Conclusion 
 
 1. The similarity between Omicron's sequences is very close also the similarity between Delta's sequences is very close as we can see that in the phylogenetic tree.
