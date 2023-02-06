@@ -26,6 +26,12 @@
 3. CG represent the stability of DNA, was low in the corona sequences that led to many variants of virus.
 4. The similarity between the consensus sequence and the individual Omicron is very close so we can say that Delta and Omicron are from the same family.
 
+#### team 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 
 
 
