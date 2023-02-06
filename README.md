@@ -11,6 +11,9 @@
 <br>
 <img src="omicron.jpg" width="200"/> <img src=".deltajpg.jpg" width="200"/>
 
+#### [The data set used is from GISAID which is a public database for SARS-Cov2](https://gisaid.org/)
+
+
 
 
 
