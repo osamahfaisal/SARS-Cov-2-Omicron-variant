@@ -13,6 +13,16 @@
 
 #### [The data set used is from GISAID which is a public database for SARS-Cov2](https://gisaid.org/)
 
+#### Comparison is done in three ways:
+1. multiple sequence alignment on Delta 
+2. Phylogenetic tree
+3. Getting the Chemical constituents.
+4. Extracting the dissimilar regions.
+
+
+
+
+
 
 
 
