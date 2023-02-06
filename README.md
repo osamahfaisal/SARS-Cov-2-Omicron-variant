@@ -21,10 +21,11 @@
 
 <br>
 #### Conclusion 
-- The similarity between Omicron's sequences is very close also the similarity between Delta's sequences is very close as we can see that in the phylogenetic tree.
-- There is a great similarity between the delta virus and the Omicron mutant, as the similarity rate is approximately 93%.
-- CG represent the stability of DNA, was low in the corona sequences that led to many variants of virus.
--The similarity between the consensus sequence and the individual Omicron is very close so we can say that Delta and Omicron are from the same family.
+
+1. The similarity between Omicron's sequences is very close also the similarity between Delta's sequences is very close as we can see that in the phylogenetic tree.
+2.  There is a great similarity between the delta virus and the Omicron mutant, as the similarity rate is approximately 93%.
+3. CG represent the stability of DNA, was low in the corona sequences that led to many variants of virus.
+4. The similarity between the consensus sequence and the individual Omicron is very close so we can say that Delta and Omicron are from the same family.
 
 
 
