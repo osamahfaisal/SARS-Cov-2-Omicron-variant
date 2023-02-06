@@ -9,7 +9,7 @@
 
 **SARS-CoV-2 which has caused the covid-19 has many variants. Alpha, beta, gamma, delta and omicron, the main purpose of this study is to compare between the following two:**
 <br>
-<img src="omicron.jpg" width="200"/> <img src=".deltajpg.jpg" width="300"/>
+<img src="omicron.jpg" width="200"/> <img src=".deltajpg.jpg" width="200"/>
 
 
 
